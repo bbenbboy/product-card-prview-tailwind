@@ -31,8 +31,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Github](https://github.com/bbenbboy/product-card-prview.git)
+- Live Site URL: [Live site](https://product-card-prview.vercel.app/)
 
 ## My process
 
@@ -47,10 +47,11 @@ Users should be able to:
 
 ### What I learned
 
-- First time using Tailwindscss which is complicated than CSS but will work with it.
+- First time using Tailwindscss which is more complicated than CSS but will work with it.
 
 ### Continued development
 
+`
 None
 
 ### Useful resources
